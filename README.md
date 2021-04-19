@@ -1,4 +1,4 @@
-# NSSE Chapter Deliverables 
+# NSSE Product Team Deliverables 
 
 ### What the chapters can expect to recieve from us for the fall of 2021?
 1. A clear schedule
